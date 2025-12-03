@@ -1,4 +1,4 @@
-# TrendPulse AI
+#  TrendPulse AI
 
 ## Overview
 TrendPulse AI is a FastAPI-powered backend service that analyzes Google Trends data to provide insights about keyword popularity, trend direction, and optimal posting times.
