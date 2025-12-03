@@ -8,7 +8,7 @@ TrendPulse AI is a FastAPI-powered backend service that analyzes Google Trends d
 ├── main.py          # FastAPI application with trend analysis logic
 ├── pyproject.toml   # Python dependencies
 ├── .gitignore       # Git ignore patterns
-└── replit.md        # Project documentation
+└── Readme.md        # Project documentation
 ```
 
 ## API Endpoints
